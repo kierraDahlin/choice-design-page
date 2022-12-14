@@ -51,14 +51,14 @@ body {
 }
 
 .item5 {
-  left: 55%;
+  left: 75%;
   top: 20%;
 
   animation: lift 900ms infinite linear alternate;
 }
 
 .item6 {
-  left: 65%;
+  left: 90%;
   top: 15%;
 
   animation: lift 800ms infinite linear alternate;
