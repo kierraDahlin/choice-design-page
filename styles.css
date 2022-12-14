@@ -160,8 +160,9 @@ h2 {
   font-weight: 700;
   text-transform: uppercase;
   position: relative;
-  top: 24px;
+  top: 14px;
   max-width: 500px;
+  line-height: 1;
 }
 
 .logo-designs-gallery {
@@ -261,17 +262,17 @@ h2 {
 .graphic-design-articles h2 {
   max-width: 800px;
   margin-bottom: 3rem;
-  top: -24px;
+  top: -14px;
 }
 
 @media all and (max-width: 1200px) {
   h2 {
     font-size: 44px;
-    top: 12px;
+    top: 5px;
   }
 
   .graphic-design-articles h2 {
-    top: -12px;
+    top: -5px;
   }
 
   .item-wrapper {
@@ -306,11 +307,6 @@ h2 {
 @media all and (max-width: 525px) {
   h2 {
     font-size: 32px;
-    top: 8px;
-  }
-
-  .graphic-design-articles h2 {
-    top: -8px;
   }
 
   .header,
